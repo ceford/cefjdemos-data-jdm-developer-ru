@@ -29,13 +29,11 @@
 
 Этот список стран администратора содержит пять элементов для минимизации размера изображения. Joomla обычно отображает 20 элементов.
 
-![List of countries](../../../en/images/mvc-anatomy/com-countrybase-countries.png)
+![List of countries](../../../en/images/mvc-anatomy/mvc-anatomy-getting-started/01-admin-list-of-countries.png)
 
-## Компонент-заготовка
+The site display has been set to 5 items also:
 
-Чтобы помочь вам начать работу с вашим собственным компонентом, на Github доступен [шаблон компонента](https://github.com/ceford/j4xdemos-com-bpsrc/archive/refs/heads/master.zip). Скачайте и распакуйте его в пространство файлов вашего проекта, а не в дерево вашего тестового веб-сайта. После загрузки внесите все изменения, указанные в README, и вы готовы к работе.
-
-Существуют также несколько бесплатных и коммерческих генераторов расширений, которые вы можете попробовать использовать для создания скелета компонента для ваших собственных целей. [Joomla! Component Builder](https://www.joomlacomponentbuilder.com/) бесплатен и кажется всеобъемлющим.
+![List of countries in site view](../../../en/images/mvc-anatomy/mvc-anatomy-getting-started/02-site-list-of-countries.png)
 
 *Переведено на openai.com*
 

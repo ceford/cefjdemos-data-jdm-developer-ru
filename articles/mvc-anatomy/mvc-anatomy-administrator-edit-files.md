@@ -227,7 +227,7 @@ HTMLHelper::_('behavior.keepalive');
 
 Вы можете переключаться между наборами полей формы и полями внутри каждого набора. Это может упростить вывод сложных форм с многими вкладками.
 
-![country edit form](../../../en/images/mvc-anatomy/com-countrybase-edit-country.png)
+![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form/01-country-edit-form.png)
 
 *Переведено openai.com*
 

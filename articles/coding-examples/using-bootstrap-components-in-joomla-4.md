@@ -293,7 +293,7 @@ HTML-разметку для большинства компонентов мо�
 
 Пример результата включения модуля в статью:
 
-![Bootstrap alert](../../../en/images/coding-examples/coding-examples-alert.png)
+![Bootstrap alert](../../../en/images/coding-examples/bootstrap-components/01-bootstrap-alert.png)
 
 Обратите внимание, что без поддержки JavaScript оповещение будет отображаться точно так же, как выше, но нажатие на кнопку закрытия \[X\] не закроет его. Кроме того, уведомление будет появляться при каждой загрузке страницы.
 
@@ -321,7 +321,7 @@ HTML-разметку для большинства компонентов мо�
     }
 ```
 
-![Bootstrap buttons](../../../en/images/coding-examples/coding-examples-buttons.png)
+![Bootstrap buttons](../../../en/images/coding-examples/bootstrap-components/02-bootstrap-buttons.png)
 
 Кнопки переключаются между синим и зеленым.
 
@@ -367,7 +367,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap carousel](../../../en/images/coding-examples/coding-examples-carousel.jpg)
+![Bootstrap carousel](../../../en/images/coding-examples/bootstrap-components/03-bootstrap-carousel.jpg)
 
 ### Пример 4: Сворачивание
 
@@ -389,7 +389,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap collapse](../../../en/images/coding-examples/coding-examples-collapse.png)
+![Bootstrap collapse](../../../en/images/coding-examples/bootstrap-components/04-bootstrap-collapse.png)
 
 ### Пример 5: Выпадающий список
 
@@ -410,7 +410,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap dropdown](../../../en/images/coding-examples/coding-examples-dropdown.png)
+![Bootstrap dropdown](../../../en/images/coding-examples/bootstrap-components/05-bootstrap-dropdown.png)
 
 ### Пример 6: Модальное окно
 
@@ -439,7 +439,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap modal](../../../en/images/coding-examples/coding-examples-modal.png)
+![Bootstrap modal](../../../en/images/coding-examples/bootstrap-components/06-bootstrap-modal.png)
 
 ### Пример 7: Offcanvas
 
@@ -455,7 +455,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap alert](../../../en/images/coding-examples/coding-examples-popover.png)
+![Bootstrap alert](../../../en/images/coding-examples/bootstrap-components/08-bootstrap-popover.png)
 
 ### Пример 9: Scrollspy
 
@@ -502,7 +502,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap scrollspy](../../../en/images/coding-examples/coding-examples-scrollspy.png)
+![Bootstrap scrollspy](../../../en/images/coding-examples/bootstrap-components/09-bootstrap-scrollspy.png)
 
 Также нужно внести некоторые стилистические изменения в user.css:
 
@@ -538,7 +538,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap tab](../../../en/images/coding-examples/coding-examples-tab.png)
+![Bootstrap tab](../../../en/images/coding-examples/bootstrap-components/10-bootstrap-tab.png)
 
 Не забудьте проверить оба варианта: вкладку и выпадающий список, чтобы выпадающая часть работала.
 
@@ -559,7 +559,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap toast](../../../en/images/coding-examples/coding-examples-toast.png)
+![Bootstrap toast](../../../en/images/coding-examples/bootstrap-components/11-bootstrap-toast.png)
 
 Обратите внимание, что демо-версия Bootstrap, использующая кнопку для отображения сообщения Toast, требует дополнительного JavaScript. Похоже, этому компоненту нужен программист для эффективного использования!
 
@@ -579,7 +579,7 @@ HTML-разметку для большинства компонентов мо�
 
 Результат:
 
-![Bootstrap tooltip](../../../en/images/coding-examples/coding-examples-tooltip.png)
+![Bootstrap tooltip](../../../en/images/coding-examples/bootstrap-components/12-bootstrap-tooltip.png)
 
 ## Подход 2: Использование плагина контента
 
@@ -711,7 +711,7 @@ HTML-разметку для большинства компонентов мо�
 - Создайте пункт меню для одной статьи.
 - Проверьте это:
 
-![Bootstrap modal module in article](../../../en/images/coding-examples/coding-examples-modal-module.png)
+![Bootstrap modal module in article](../../../en/images/coding-examples/bootstrap-components/13-bootstrap-modal-module-in-article.png)
 
 ### Модальный компонент, содержащий карусель
 
@@ -781,6 +781,6 @@ HTML-разметку для большинства компонентов мо�
 - Создайте новый пункт меню для одной статьи: Demo Modal Carousel
 - Проверьте это:
 
-![Bootstrap modal carousel](../../../en/images/coding-examples/coding-examples-modal-carousel.png)
+![Bootstrap modal carousel](../../../en/images/coding-examples/bootstrap-components/14-bootstrap-modal-carousel.png)
 
 *Переведено openai.com*

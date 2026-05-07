@@ -38,7 +38,7 @@ cefjdemos-plg-toc
 
 Это структура, как она выглядит в среде разработки VSCode или VSCodium:
 
-![Plugin development file structure in vscodium](../../../en/images/plugins/cefjdemostoc-vscodium.png)
+![Plugin development file structure in vscodium](../../../en/images/plugin-development/content-toc/01-file-structure-in-vscodium.png)
 
 ## Файл манифеста
 
@@ -238,7 +238,7 @@ $wa->registerAndUseStyle('plg_content_cefjdemostoc', 'plg_content_cefjdemostoc/c
 
 ## Результат
 
-![The resulting table of contents](../../../en/images/plugins/cefjdemostoc-result.png)
+![The resulting table of contents](../../../en/images/plugin-development/content-toc/02-result-table-of-contents.png)
 
 *Переведено openai.com*
 

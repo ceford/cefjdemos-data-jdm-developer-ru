@@ -42,7 +42,7 @@
 
 В [Мой первый pull-запрос в Joomla! на Github](https://docs.joomla.org/My_first_pull_request_to_Joomla!_on_Github) описан рабочий процесс, о котором я не могу не говорить с большой похвалой. Он показывает точно, что нужно сделать:
 
-![Github work flow](../../../en/images/getting-started/core-work-flow-joomla.png)
+![Github work flow](../../../en/images/getting-started/setting-up-eclipse/01-github-work-flow.png)
 
 Шаги
 

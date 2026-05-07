@@ -51,7 +51,7 @@ cefjdemos-plg-toc
 
 Это структура, как она выглядит в среде разработки VSCode или VSCodium:
 
-![Plugin development file structure in vscodium](../../../en/images/modules/downmsg-module-vscodium.png)
+![Plugin development file structure in vscodium](../../../en/images/modules/down-message/01-files-in-vscodium.png)
 
 ## Файл Манифест
 
@@ -362,21 +362,21 @@ $tod .= ' GMT ' . $tz;
 4. На вкладке **Назначение меню** выберите **На всех страницах**.
 5. **Сохраните**, и вы готовы проверить внешний вид сайта.
 
-![the module edit form](../../../en/images/modules/downmsg-module-edit-form.png)
+![the module edit form](../../../en/images/modules/down-message/02-module-edit-form.png)
 
 ## Тестирование
 
 Вот как сообщение выглядит на английском языке:
 
-![site down message in english](../../../en/images/modules/downmsg-module-result-en.png)
+![site down message in english](../../../en/images/modules/down-message/03-module-result-en.png)
 
 На немецком:
 
-![site down message in english](../../../en/images/modules/downmsg-module-result-de.png)
+![site down message in german](../../../en/images/modules/down-message/04-module-result-de.png)
 
 И на французский:
 
-![site down message in english](../../../en/images/modules/downmsg-module-result-fr.png)
+![site down message in french](../../../en/images/modules/down-message/05-module-result-fr.png)
 
 ## Обновление сайта и журнал изменений
 

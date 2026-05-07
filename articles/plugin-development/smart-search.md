@@ -31,7 +31,7 @@ cefjdemos-plg-finder-jdocmanual
 
 В VSCodium это выглядит так:
 
-![Plugin development file structure in vscodium](../../../en/images/plugins/jdocmanual-vscodium.png)
+![Plugin development file structure in vscodium](../../../en/images/plugin-development/smart-search/01-files-in-vscodium.png)
 
 ## Настройте код
 
@@ -132,7 +132,7 @@ Jdocmanual настроен на индексацию своих статей п
 
 В конце концов, ваш пользовательский плагин для умного поиска должен заработать. Это пример страницы результатов для Jdocmanual, который выполняет поиск термина на этой странице. Страница с результатами опускает форму поиска из заголовка, так как она присутствует в теле страницы.
 
-![Smart search result](../../../en/images/plugins/jdocmanual-search-result.png)
+![Smart search result](../../../en/images/plugin-development/smart-search/02-smart-search-result.png)
 
 Небольшое отступление: плагин System - Joomla Accessibility Checker показывает, что в форме ввода данных *Условия поиска* есть 3 ошибки. Это требует основного исправления или переопределения.
 

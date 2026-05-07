@@ -6,7 +6,7 @@
 
 На следующем скриншоте показана часть списка из более чем 30 баз данных, созданных для тестирования различных установок и проектов расширений Joomla.
 
-![Phypadmin screenshot of list of databases](../../../en/images/getting-started/phpmyadmin-databases.png)
+![Phypadmin screenshot of list of databases](../../../en/images/getting-started/databases/01-phpmyadmin-list-of-databases.png)
 
 Примечание: сортировки в основном utf8mb4_0900_ai_ci:
 

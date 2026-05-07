@@ -10,7 +10,7 @@ Joomla 4 представила систему HTTP-заголовков, пре
 
 Перейдите в **System → Plugins → System - HTTP Headers**, чтобы получить доступ к форме настройки плагина.
 
-![System http headers plugin form](../../../en/images/security/security-http-headers-plugin.png)
+![System http headers plugin form](../../../en/images/security/http-header-management/01-system-http-headers-plugin-form.png)
 
 - **X-Frame Options** Включено по умолчанию, но [документация](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options) утверждает, что этот заголовок устарел и вместо него следует использовать политику *frame-ancestors*.
 - **Referrer-Policy** Значение по умолчанию - *strict-origin-when-cross-origin*.
@@ -35,7 +35,7 @@ Joomla 4 представила систему HTTP-заголовков, пре
 
 ### Вкладка Strict-Transport-Security (HSTS)
 
-![strict transport security settings](../../../en/images/security/security-http-headers-hsts.png)
+![strict transport security settings](../../../en/images/security/http-header-management/02-strict-transport-security-settings.png)
 
 Используйте кнопку *Переключить встроенную помощь* для получения информации о каждом параметре. Иллюстрированная справка:
 
@@ -43,7 +43,7 @@ Joomla 4 представила систему HTTP-заголовков, пре
 
 ### Вкладка Content-Security-Policy (CSP)
 
-![Content security policy options](../../../en/images/security/security-http-headers-csp.png)
+![Content security policy options](../../../en/images/security/http-header-management/03-content-security-policy-options.png)
 
 Как только включено, вы можете установить клиента, где вы хотите применить настроенный CSP, что позволяет вам установить `site`, `administrator` или `both`. CSP должен применяться как к фронтенду, так и к бэкенду. Иллюстрированные ссылки:
 

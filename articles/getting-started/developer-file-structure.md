@@ -14,7 +14,7 @@
 
 Это скриншот части списка папки Sites, показывающий выборку из множества тестовых сайтов:
 
-![multiple sites on mac](../../../en/images/getting-started/developer-file-structure-mac-sites.png)
+![multiple sites on mac](../../../en/images/getting-started/developer-file-structure/01-multiple-sites-on-mac.png)
 
 Каждый доступен по имени его подпапки. Примеры:
 
@@ -27,7 +27,7 @@
 
 Если вы еще этого не сделали, вам нужно будет ознакомиться со структурой веб-сайта Joomla. Следующая иллюстрация показывает типичное дерево файлов и папок Joomla, с раскрытой папкой Administrator, чтобы показать ее содержимое.
 
-![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure-mac-joomla.png)
+![joomla file structure with administrator expanded](../../../en/images/getting-started/developer-file-structure/02-file-structure-admin-expanded.png)
 
 Здесь будет установлен рабочий код. Исходный код находится в другом месте.
 
@@ -35,7 +35,7 @@
 
 Местоположение вашего кода расширения — это личный выбор. Мне нравится хранить код расширения в файловой структуре, подходящей для создания устанавливаемого zip-файла. Основой моей структуры является /Users/username/git, потому что я могу произнести git, и я использую git для управления версиями. Вам не обязательно это делать — git будет рассмотрен в отдельном уроке. В моей родительской папке git содержится множество подпапок, каждая из которых может использовать отдельные папки git для управления версиями. Это скриншот, показывающий частичный список проектов:
 
-![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure-mac-project-folders.png)
+![joomla file structure project folders](../../../en/images/getting-started/developer-file-structure/03-project-folders.png)
 
 Обратите внимание, что некоторые имена папок начинаются с `j4xdemos`, которые я использовал в качестве первой части пространства имен, применяемого для моих проектов, созданных в учебных целях для Joomla 4. Это не обязательно должно быть частью имени папки, но стоит задуматься о том, что первая часть вашего пространства имен должна быть уникальной для вас или вашей организации. Позже я использовал `cefjdemos` в качестве префикса моего пространства имен, так как он более личный и не привязан к конкретной версии Joomla.
 
@@ -45,7 +45,7 @@
 
 В следующей иллюстрации папка j4xdemos-com-mywalks была открыта в VSCodium, чтобы показать структуру кода проекта. Файл mywalks.xml является манифест-файлом, который сообщает Joomla, что и куда нужно установить. Папки admin и site содержат код, который будет помещен в administrator/components/com_mywalks и components/com_mywalks.
 
-![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure-mac-vscodium.png)
+![Project folder open in vscodium](../../../en/images/getting-started/developer-file-structure/04-project-open-in-vscodium.png)
 
 Должно быть очевидно, что даже небольшой компонент требует довольно много папок и файлов. Существуют инструменты для создания шаблона расширения, которые позволяют быстро создать скелет компонента. Они рассматриваются в других местах. Требуется сделать.
 

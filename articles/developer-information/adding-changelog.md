@@ -4,7 +4,7 @@
 
 Изменения в выпуске будут представлены следующим образом:
 
-![changelog modal view](../../../en/images/developer-information/adding-changelog-example-1.png)
+![changelog modal view](../../../en/images/developer-information/adding-changelog/01-changelog-modal-view.png)
 
 Журнал изменений используется в двух разных местах.
 
@@ -12,7 +12,7 @@
 
 Установщик покажет список изменений версии, которую можно установить, если он доступен.
 
-![changelog installer view](../../../en/images/developer-information/adding-changelog-update-view.png)
+![changelog installer view](../../../en/images/developer-information/adding-changelog/02-changelog-installer-view.png)
 
 Нажатие кнопки Changelog здесь покажет список изменений новой доступной версии.
 
@@ -20,7 +20,7 @@
 
 Менеджер расширений покажет список изменений для текущего установленного расширения, если он доступен.
 
-![changelog installer view](../../../en/images/developer-information/adding-changelog-extension-view.png)
+![changelog extension view](../../../en/images/developer-information/adding-changelog/03-changelog-extension-view.png)
 
 Нажатие на номер версии здесь покажет список изменений текущей установленной версии.
 
