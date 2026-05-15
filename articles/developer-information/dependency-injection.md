@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Dependency_Injection_in_Joomla_4 / Display title: Внедрение зависимостей -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Dependency_Injection_in_Joomla_4",
+  "title": "Внедрение зависимостей ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Введение
 

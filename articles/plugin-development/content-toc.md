@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:J4_Plugin_example_-_Table_of_Contents / Display title: Пример: Оглавление -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:J4_Plugin_example_-_Table_of_Contents",
+  "title": "Пример: Оглавление ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Введение
 

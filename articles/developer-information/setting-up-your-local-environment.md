@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Setting_Up_Your_Local_Environment / Display title: Настройка локальной среды -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Setting_Up_Your_Local_Environment",
+  "title": "Настройка локальной среды ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Краткое руководство по началу работы
 

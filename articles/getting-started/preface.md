@@ -1,4 +1,11 @@
-<!-- Filename: Предисловие / Display title: Предисловие -->
+<!--
+{
+  "source": "https://docs.joomla.org/Предисловие",
+  "title": "Предисловие ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## О данном руководстве
 

@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Http_Header_Management / Display title: Заголовки HTTP -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Http_Header_Management",
+  "title": "Заголовки HTTP ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Введение
 

@@ -1,4 +1,11 @@
-<!-- Filename: Visual_Studio_Code_Primer / Display title: Visual Studio Code -->
+<!--
+{
+  "source": "https://docs.joomla.org/Visual_Studio_Code_Primer",
+  "title": "Visual Studio Code ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## VS Code - популярная бесплатная среда разработки (IDE)
 
@@ -102,7 +109,7 @@ VS Code можно использовать для любого типа тек�
 
 Когда вы откроете страницу с ошибочным модулем, вы увидите трассировку стека, показывающую, где произошла ошибка.
 
-![Stack trace](../../../en/images/getting-started/vscode-primer/01-stack-trace.png)
+![Stack trace](../../../../en/images/getting-started/ides/visual-studio-code-primer/01-stack-trace.png)
 
 Иногда ошибка в коде находится на первой строке трассировки стека. В противном случае, если ошибка вызвана в коде библиотеки, например, при передаче недопустимых данных в функцию базы данных, ошибка в коде может находиться ниже в списке вызовов функций.
 
@@ -110,7 +117,7 @@ VS Code можно использовать для любого типа тек�
 
 В VS Code используйте пункт меню Файл / Открыть папку, чтобы найти и открыть папку, содержащую вашу локальную копию кода расширения *mod_debugme*. Вы должны увидеть что-то похожее на следующее:
 
-![VS Code screen](../../../en/images/getting-started/vscode-primer/02-vscode-screen.png)
+![VS Code screen](../../../../en/images/getting-started/ides/visual-studio-code-primer/02-vscode-screen.png)
 
 Вы можете диагностировать проблему просто прочитав код. В случае ошибки *Класс "DebugHelper" не найден* вы увидите, что ранее несколько строк было закомментировано выражение *use*. Забвение вставить выражение *use* — это распространенная ошибка на этапе начальной разработки!
 
@@ -272,7 +279,7 @@ Phing - это инструмент командной строки, досту�
 
 Когда всё будет исправлено, вы можете увидеть следующее:
 
-![Site view of debugged module working](../../../en/images/getting-started/vscode-primer/03-debugme-fixed.png)
+![Site view of debugged module working](../../../../en/images/getting-started/ides/visual-studio-code-primer/03-debugme-fixed.png)
 
 Дни торта?
 

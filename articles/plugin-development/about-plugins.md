@@ -1,4 +1,11 @@
-<!-- Filename: https://manual.joomla.org/docs/building-extensions/plugins/ / Display title: О плагинах -->
+<!--
+{
+  "source": "https://docs.joomla.org/https:",
+  "title": "О плагинах ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Эволюция кода плагина
 

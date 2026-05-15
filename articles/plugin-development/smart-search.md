@@ -1,4 +1,11 @@
-<!-- Filename: Creating_a_Smart_Search_plug-in / Display title: Пример: Умный поиск -->
+<!--
+{
+  "source": "https://docs.joomla.org/Creating_a_Smart_Search_plug-in",
+  "title": "Пример: Умный поиск ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Введение
 

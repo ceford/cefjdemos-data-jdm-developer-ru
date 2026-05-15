@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Developer:_Required_Software / Display title: Настройка базы данных -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Developer:_Required_Software",
+  "title": "Настройка базы данных ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## О MySQL и MariaDB
 

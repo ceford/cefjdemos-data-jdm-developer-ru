@@ -1,4 +1,11 @@
-<!-- Filename: Adding_changelog_to_your_manifest_file / Display title: Добавление журнала изменений -->
+<!--
+{
+  "source": "https://docs.joomla.org/Adding_changelog_to_your_manifest_file",
+  "title": "Добавление журнала изменений ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Начиная с Joomla 4.0, разработчики расширений могут использовать возможность Joomla считывать файл changelog и предоставлять визуальное представление журнала изменений. Если данная версия не найдена в журнале изменений, кнопка changelog не будет отображаться.
 

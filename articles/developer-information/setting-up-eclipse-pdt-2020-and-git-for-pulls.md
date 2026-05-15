@@ -1,4 +1,11 @@
-<!-- Filename: Setting_up_Eclipse_PDT_2020_and_Git_for_Pulls / Display title: Настройка Eclipse PDT 2020 и Git для Pulls -->
+<!--
+{
+  "source": "https://docs.joomla.org/Setting_up_Eclipse_PDT_2020_and_Git_for_Pulls",
+  "title": "Настройка Eclipse PDT 2020 и Git для Pulls ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Введение
 

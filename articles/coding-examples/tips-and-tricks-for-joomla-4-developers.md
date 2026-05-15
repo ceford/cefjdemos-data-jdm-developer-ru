@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Tips_and_Tricks_for_Joomla_4_Developers / Display title: Советы и рекомендации для разработчиков Joomla 4 -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Tips_and_Tricks_for_Joomla_4_Developers",
+  "title": "Советы и рекомендации для разработчиков Joomla 4 ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Эта серия статей предназначена для помощи новым разработчикам с примерами кода, разработанными и используемыми для решения конкретных задач. Обычно они содержат смесь PHP, JavaScript, XML и иногда других форматов.
 

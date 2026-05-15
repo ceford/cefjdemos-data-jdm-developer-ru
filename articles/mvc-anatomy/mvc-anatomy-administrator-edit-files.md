@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:MVC_Anatomy:_Administrator_Edit_Files / Display title: MVC Анатомия: Редактирование файлов администратора -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:MVC_Anatomy:_Administrator_Edit_Files",
+  "title": "MVC Анатомия: Редактирование файлов администратора ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Файлы данных по странам
 
@@ -227,7 +234,7 @@ HTMLHelper::_('behavior.keepalive');
 
 Вы можете переключаться между наборами полей формы и полями внутри каждого набора. Это может упростить вывод сложных форм с многими вкладками.
 
-![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form/01-country-edit-form.png)
+![country edit form](../../../en/images/mvc-anatomy/mvc-anatomy-administrator-edit-files/01-country-edit-form.png)
 
 *Переведено openai.com*
 

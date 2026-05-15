@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Automated_System_Testing / Display title: Автоматизированное тестирование системы -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Automated_System_Testing",
+  "title": "Автоматизированное тестирование системы ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Фон
 

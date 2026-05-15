@@ -1,4 +1,11 @@
-<!-- Filename: API_Guides / Display title: Руководства по API -->
+<!--
+{
+  "source": "https://docs.joomla.org/API_Guides",
+  "title": "Руководства по API ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Эта страница содержит указатель на набор руководств по API Joomla. Эти руководства предназначены для того, чтобы помочь вам понять, как использовать эти функции Joomla в ваших собственных расширениях Joomla.
 

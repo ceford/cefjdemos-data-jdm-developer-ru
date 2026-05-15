@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Joomla_Core_APIs / Display title: Joomla Core API -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Joomla_Core_APIs",
+  "title": "Joomla Core API ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Эта страница перечисляет доступные конечные точки в Joomla на примере команд curl. Она была подготовлена для Joomla 4 и требует проверки на соответствие с текущими версиями Joomla.
 

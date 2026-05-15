@@ -1,4 +1,11 @@
-<!-- Filename: J4.x:Web_Assets / Display title: Веб-активы -->
+<!--
+{
+  "source": "https://docs.joomla.org/J4.x:Web_Assets",
+  "title": "Веб-активы ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## О веб-ресурсах
 
