@@ -63,25 +63,19 @@
 
 Node.js поставляется с менеджером пакетов под названием NPM, у которого есть команда `run`. Некоторые скрипты доступны, чтобы ускорить процесс сборки, если были изменены только файлы CSS или JavaScript.
 
-### npm run build:css
+### npm run build:css (up to Joomla 6.1)
 
 Эта команда компилирует файлы SASS в CSS, а также создает minimизированные файлы.
 
-### npm run build:js
+### npm run build:js (up to Joomla 6.1)
 
 Эта команда компилирует и транспилирует файлы JavaScript в правильный формат и создает минифицированные файлы.
 
-### npm run watch
+### From Joomla 6.2 use the following commands:
 
-Эта команда такая же, как команда `build:js`, но будет отслеживать изменения и автоматически создавать обновленные файлы в каталоге media. Файлы SASS пока не включены.
-
-### npm run lint:js
-
-Эта команда выполняет проверку синтаксиса всех файлов JavaScript ES6 в соответствии со стандартом кода JavaScript. Для получения дополнительной информации см. [Руководство по стандартам кодирования Joomla](https://developer.joomla.org/coding-standards/introduction.html).
-
-### npm run test
-
-Эта команда запустит набор тестов JavaScript.
+- npm run build -- -n to rebuild a specific extension
+- run npm run builders-list to find the extension name
+- npm run build -- --all to rebuild everything
 
 ## Возможные проблемы
 
